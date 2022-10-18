@@ -4,7 +4,7 @@
  *
  */
 
-package zad1;
+package UTP1;
 
 
 import java.util.ArrayList;

@@ -2,11 +2,11 @@
  * @author Vu Cong Minh S25206
  */
 
-package zad1;
+package UTP1;
 
 
 import java.util.*;
-import static zad1.ListCreator.collectFrom;
+import static UTP1.ListCreator.collectFrom;
 
 
 public class Main {
