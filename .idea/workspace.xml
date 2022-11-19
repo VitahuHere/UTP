@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="RESTRUCTURE">
+    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,13 +34,16 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vumir/IdeaProjects/UTP&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vumir/Downloads/UTP4_VC_S25206/UTP4_VC_S25206&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP2" />
-      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP1" />
+      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad4" />
+      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad3" />
+      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad2" />
+      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad1" />
+      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3" />
     </key>
   </component>
   <component name="RunManager">
@@ -77,6 +80,9 @@
       <workItem from="1666472338524" duration="279000" />
       <workItem from="1666472633587" duration="175000" />
       <workItem from="1667850997456" duration="1179000" />
+      <workItem from="1667954918352" duration="197000" />
+      <workItem from="1668031899206" duration="21000" />
+      <workItem from="1668536734169" duration="229000" />
     </task>
     <task id="LOCAL-00001" summary="RESTRUCTURE">
       <created>1666090447813</created>
@@ -85,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666090447813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ADD UTP3">
+      <created>1667955105411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667955105411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RESTRUCTURE" />
-    <option name="LAST_COMMIT_MESSAGE" value="RESTRUCTURE" />
+    <MESSAGE value="ADD UTP3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP3" />
   </component>
 </project>
