@@ -29,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vumir/Downloads/UTP4_VC_S25206/UTP4_VC_S25206&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/vumir/Downloads/UTP5_VC_S25206/UTP5_VC_S25206"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad4" />
@@ -83,6 +83,12 @@
       <workItem from="1667954918352" duration="197000" />
       <workItem from="1668031899206" duration="21000" />
       <workItem from="1668536734169" duration="229000" />
+      <workItem from="1668872912034" duration="49000" />
+      <workItem from="1668873013699" duration="4000" />
+      <workItem from="1668894782463" duration="20000" />
+      <workItem from="1668978912483" duration="32000" />
+      <workItem from="1668979426167" duration="29000" />
+      <workItem from="1669250615203" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="RESTRUCTURE">
       <created>1666090447813</created>
