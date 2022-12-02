@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vumir/Downloads/UTP5_VC_S25206/UTP5_VC_S25206"
+    "last_opened_file_path": "C:/Users/vumir/IdeaProjects/UTP"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -89,6 +87,7 @@
       <workItem from="1668978912483" duration="32000" />
       <workItem from="1668979426167" duration="29000" />
       <workItem from="1669250615203" duration="53000" />
+      <workItem from="1669585995136" duration="196000" />
     </task>
     <task id="LOCAL-00001" summary="RESTRUCTURE">
       <created>1666090447813</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667955105411</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ADD UTP5">
+      <created>1669586165562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669586165562</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RESTRUCTURE" />
     <MESSAGE value="ADD UTP3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP3" />
+    <MESSAGE value="ADD UTP5" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP5" />
   </component>
 </project>

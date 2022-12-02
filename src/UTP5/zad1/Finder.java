@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Finder {
@@ -29,12 +30,13 @@ public class Finder {
     private ArrayList<String> processData(ArrayList<String> data){
         ArrayList<String> processed = removeWhiteSpace(data);
         processed = removeComments(processed);
+        processed = removeIfsInString(processed);
         return processed;
     }
 
     private ArrayList<String> removeWhiteSpace(ArrayList<String> data){
         ArrayList<String> result = new ArrayList<>();
-        String temp = "";
+        String temp;
         for (String line : data) {
             temp = line.trim();
             if (!temp.isEmpty()) {
@@ -66,13 +68,34 @@ public class Finder {
         return result;
     }
 
+    private ArrayList<String> removeIfsInString(ArrayList<String> data){
+        ArrayList<String> result = new ArrayList<>();
+        boolean inQuote = false;
+        for (String line : data) {
+            StringBuilder temp = new StringBuilder();
+            for(char c : line.toCharArray()){
+                if(c == '"'){
+                    inQuote = !inQuote;
+                }
+                if(!inQuote){
+                    temp.append(c);
+                }
+            }
+            result.add(temp.toString());
+        }
+        return result;
+    }
+
     public int getIfCount(){
         int count = 0;
-        Pattern pattern = Pattern.compile("if\\s*\\(.*\\)\\s*");
+        Pattern pattern = Pattern.compile("if\\s*\\(.*?\\)");
+        Matcher matcher;
         for (String line : data) {
-            while(pattern.matcher(line).find()){
+            matcher = pattern.matcher(line);
+            while(matcher.find()){
                 count++;
-                line = line.substring(line.indexOf("if") + 2);
+                line = line.substring(matcher.end());
+                matcher = pattern.matcher(line);
             }
         }
         return count;
