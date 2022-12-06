@@ -3,8 +3,7 @@
  *  @author Vu Cong Minh S25206
  *
  */
-
-package zad1;
+package UTP5.zad1;
 
 
 public class Main {

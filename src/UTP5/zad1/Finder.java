@@ -4,7 +4,7 @@
  *
  */
 
-package zad1;
+package UTP5.zad1;
 
 
 import java.io.IOException;

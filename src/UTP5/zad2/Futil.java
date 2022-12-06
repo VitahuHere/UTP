@@ -1,4 +1,4 @@
-package zad2;
+package UTP5.zad2;
 
 import java.io.*;
 import java.nio.charset.Charset;

@@ -4,7 +4,8 @@
  *
  */
 
-package zad2;
+package UTP5.zad2;
+
 
 
 public class Main {
