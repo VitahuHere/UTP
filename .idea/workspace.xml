@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP5 fix package">
+    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP6">
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad1/Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad2/StringTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad2/TaskState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/buttons/AddButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/buttons/CancelButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/buttons/CheckStatusButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/buttons/DeleteButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/buttons/StartAllButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/buttons/StartButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/AddTaskFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/AddTaskPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/EasterFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/EasterPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/InputPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/MainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/ResultPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/TaskPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/hehe.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/swing/views/rick.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/task/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/task/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP6/zad3/task/TaskList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +58,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vumir/IdeaProjects/UTP",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vumir/IdeaProjects/UTP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP6" />
@@ -116,6 +142,7 @@
       <workItem from="1670332597302" duration="910000" />
       <workItem from="1670628284972" duration="70000" />
       <workItem from="1671306524405" duration="231000" />
+      <workItem from="1671306773412" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="RESTRUCTURE">
       <created>1666090447813</created>
@@ -159,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670333509033</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ADD UTP6">
+      <created>1671307074229</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671307074229</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +216,7 @@
     <MESSAGE value="ADD UTP5" />
     <MESSAGE value="ADD UTP5 unedited" />
     <MESSAGE value="ADD UTP5 fix package" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP5 fix package" />
+    <MESSAGE value="ADD UTP6" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP6" />
   </component>
 </project>
