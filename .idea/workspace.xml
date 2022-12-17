@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP5 unedited">
+    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP5 fix package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UTP5/zad1/Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UTP5/zad1/Finder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UTP5/zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UTP5/zad1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UTP5/zad2/Futil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UTP5/zad2/Futil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UTP5/zad2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UTP5/zad2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +47,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP6" />
       <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP5" />
       <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad4" />
       <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad3" />
       <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad2" />
-      <recent name="C:\Users\vumir\IdeaProjects\UTP\src\UTP3\zad1" />
     </key>
   </component>
   <component name="RunManager" selected="Application.UTP5.zad1.Main">
@@ -117,7 +113,9 @@
       <workItem from="1669250615203" duration="53000" />
       <workItem from="1669585995136" duration="196000" />
       <workItem from="1669986259843" duration="153000" />
-      <workItem from="1670332597302" duration="808000" />
+      <workItem from="1670332597302" duration="910000" />
+      <workItem from="1670628284972" duration="70000" />
+      <workItem from="1671306524405" duration="231000" />
     </task>
     <task id="LOCAL-00001" summary="RESTRUCTURE">
       <created>1666090447813</created>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669986372170</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ADD UTP5 fix package">
+      <created>1670333509033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670333509033</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +181,7 @@
     <MESSAGE value="ADD UTP3" />
     <MESSAGE value="ADD UTP5" />
     <MESSAGE value="ADD UTP5 unedited" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP5 unedited" />
+    <MESSAGE value="ADD UTP5 fix package" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP5 fix package" />
   </component>
 </project>
