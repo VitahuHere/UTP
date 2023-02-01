@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP7 and UTP8" />
+    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP9">
+      <change afterPath="$PROJECT_DIR$/src/UTP9/UTP9_VC_S25206.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP9/zad1/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP9/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP9/zad1/ParamsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP9/zad1/S_BIGDECCAL.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP9/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP9/zad2/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UTP9/zad2/S_JAVABEAN.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vumir/Downloads/UTP9_VC_S25206/UTP9_VC_S25206",
+    "last_opened_file_path": "C:/Users/vumir/IdeaProjects/UTP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -144,6 +154,7 @@
       <workItem from="1671306524405" duration="231000" />
       <workItem from="1671306773412" duration="353000" />
       <workItem from="1673660472873" duration="725000" />
+      <workItem from="1675274114400" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="RESTRUCTURE">
       <created>1666090447813</created>
@@ -233,6 +244,7 @@
     <MESSAGE value="ADD UTP5 fix package" />
     <MESSAGE value="ADD UTP6" />
     <MESSAGE value="ADD UTP7 and UTP8" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP7 and UTP8" />
+    <MESSAGE value="ADD UTP9" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP9" />
   </component>
 </project>
