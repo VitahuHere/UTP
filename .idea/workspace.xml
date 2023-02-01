@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4bdfdef8-7e15-451a-bd98-068f32e59b8b" name="Changes" comment="ADD UTP7 and UTP8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vumir/IdeaProjects/UTP",
+    "last_opened_file_path": "C:/Users/vumir/Downloads/UTP9_VC_S25206/UTP9_VC_S25206",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -145,7 +143,7 @@
       <workItem from="1670628284972" duration="70000" />
       <workItem from="1671306524405" duration="231000" />
       <workItem from="1671306773412" duration="353000" />
-      <workItem from="1673660472873" duration="609000" />
+      <workItem from="1673660472873" duration="725000" />
     </task>
     <task id="LOCAL-00001" summary="RESTRUCTURE">
       <created>1666090447813</created>
@@ -203,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671307100973</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ADD UTP7 and UTP8">
+      <created>1673661181482</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673661181482</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +232,7 @@
     <MESSAGE value="ADD UTP5 unedited" />
     <MESSAGE value="ADD UTP5 fix package" />
     <MESSAGE value="ADD UTP6" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP6" />
+    <MESSAGE value="ADD UTP7 and UTP8" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD UTP7 and UTP8" />
   </component>
 </project>
