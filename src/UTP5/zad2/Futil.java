@@ -1,3 +1,7 @@
+/**
+ * @author Vu Cong Minh S25206
+ */
+
 package UTP5.zad2;
 
 import java.io.*;

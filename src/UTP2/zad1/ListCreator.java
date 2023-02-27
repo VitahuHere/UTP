@@ -1,3 +1,7 @@
+/**
+ * @author Vu Cong Minh S25206
+ */
+
 package UTP2.zad1;
 
 import java.util.ArrayList;

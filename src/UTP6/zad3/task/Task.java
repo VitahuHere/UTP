@@ -1,3 +1,7 @@
+/**
+ * @author Vu Cong Minh S25206
+ */
+
 package UTP6.zad3.task;
 
 import java.io.FileOutputStream;

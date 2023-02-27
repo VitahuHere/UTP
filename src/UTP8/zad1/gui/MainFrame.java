@@ -1,3 +1,7 @@
+/**
+ * @author Vu Cong Minh S25206
+ */
+
 package UTP8.zad1.gui;
 
 import UTP8.zad1.Offer;

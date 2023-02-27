@@ -1,3 +1,7 @@
+/**
+ * @author Vu Cong Minh S25206
+ */
+
 package UTP9.zad1;
 
 import java.math.BigDecimal;
